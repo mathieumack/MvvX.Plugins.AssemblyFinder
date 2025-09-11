@@ -1,3 +1,7 @@
+
+> ⚠️ **This repository is no longer maintained because it is obsolete.**\
+> Native solutions are now available that provide the same functionality.
+
 [![Build status](https://ci.appveyor.com/api/projects/status/qlh7kwds6d2292g2?svg=true)](https://ci.appveyor.com/project/mathieumack/mvvx-plugins-assemblyfinder)
 
 # Mvvx.Plugins.AssemblyFinder
